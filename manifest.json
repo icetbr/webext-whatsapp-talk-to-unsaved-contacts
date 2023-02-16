@@ -1,0 +1,32 @@
+{
+    "manifest_version": 2,
+    "name": "WhatsApp Talk to Unsaved Contacts",
+    "version": "1.0.0",
+
+    "description": "You don't have to leave the WhatsWeb interface to talk to unsaved contacts anymore!",
+    "homepage_url": "https://github.com/icetbr/webext-whatsapp-talk-to-unsaved-contacts",
+    "author": "icetbr",
+
+    "icons": {
+        "16": "icons/16.png",
+        "32": "icons/32.png",
+        "48": "icons/48.png",
+        "96": "icons/96.png",
+        "128": "icons/128.png"
+    },
+
+    "browser_specific_settings": {
+        "gecko": {
+          "id": "webext-whatsapp-talk-to-unsaved-contacts@icetbr"
+        },
+        "addonIds": ["webext-whatsapp-talk-unsaved-contacts", "webext-whatsapp-talk-to-unsaved-contacts/iaccemlleljjljglecinjhogonmhnbac"],
+        "keywords": ["userscript", "whatsapp"]
+    },
+
+    "content_scripts": [
+        {
+            "matches": ["https://web.whatsapp.com/"],
+            "js": ["content.js"]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "namespace": "https://github.com/icetbr/userscripts",
+    "icon": "https://www.google.com/s2/favicons?sz=64&domain=whatsapp.com",
+    "license": "MIT",
+    "updateURL": "https://openuserjs.org/meta/icetbr/WhatsAppTalkToUnsavedContacts.meta.js",
+    "downloadURL": "https://openuserjs.org/src/scripts/icetbr/WhatsAppTalkToUnsavedContacts.user.js"
+}

@@ -1,0 +1,21 @@
+{
+    "type": "module",
+    "webExt": {
+        "sourceDir": "dist"
+    },
+    "devDependencies": {
+        "@icetbr/rollup-config-webext": "^1.0.0",
+        "@icetbr/eslint-config": "^1.0.0",
+        "@icetbr/run-config": "^1.0.0",
+        "@icetbr/cspell-config": "^1.0.0",
+        "@icetbr/utils": "1.0.0",
+        "chrome-webstore-upload-cli": "^2.1.0",
+        "web-ext": "^7.2.0"
+    },
+    "cspell": {
+        "import": [ "@icetbr/cspell-config/cspell.json" ],
+        "words": [
+            "testid"
+        ]
+    }
+}
