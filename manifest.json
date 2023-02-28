@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "WhatsApp Talk to Unsaved Contacts",
-    "version": "1.1.0",
+    "version": "1.1.1",
 
     "description": "You don't have to leave the WhatsWeb interface to talk to unsaved contacts anymore!",
     "homepage_url": "https://github.com/icetbr/webext-whatsapp-talk-to-unsaved-contacts",
