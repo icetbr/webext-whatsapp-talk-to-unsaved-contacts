@@ -1,4 +1,4 @@
-# WhatsApp Talk to Unsaved Contacts
+# WhatsApp™ Talk to Unsaved Contacts
 You don't have to leave the WhatsWeb interface to talk to unsaved contacts anymore!
 
 ### After
@@ -15,9 +15,9 @@ Press the phone button, input the phone number and hit ENTER. This will reload t
 
 ## Why
 <!-- Focus on explaining what the item does and why users should install it -->
-I use mainly WhatsApp on my notebook. This allows me to quickly message many services to requests budgets, or to check wether they provide what I need.
+I use mainly WhatsApp™ on my notebook. This allows me to quickly message many services to requests budgets, or to check wether they provide what I need.
 
-It does the same thing online link generators like [create.wa](https://create.wa.link/) do, but without leaving the WhatsApp web interface. It calls WhatsApp API to contact an unlisted phone number.
+It does the same thing online link generators like [create.wa](https://create.wa.link/) do, but without leaving the WhatsApp™ web interface. It calls WhatsApp™ API to contact an unlisted phone number.
 
 
 [Contributing](https://github.com/icetbr/my-projects/blob/main/CONTRIBUTING.md)\
